@@ -53,7 +53,7 @@ p {
     font-size: 16px;
 }
 
-/* Largest image */
+/* Largest image at top of page is a background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +63,7 @@ p {
     background-position: center;
 }
 
+/* Styles the images in the main section to flow either to the left of right of their sibling paragraph */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -103,7 +104,7 @@ aside h3 {
     text-align: center;
 }
 
-/* Sidebar image style */
+/* Sidebar icons style */
 aside img {
     display: block;
     margin: 10px auto;
