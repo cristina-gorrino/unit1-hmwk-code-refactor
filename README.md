@@ -17,5 +17,5 @@ This project involved taking an existing landing page and refactoring the html a
 ## Visuals
 Example of design and function of website
 
-![Screen Shot 2021-03-09 at 12 40 57 AM](https://user-images.githubusercontent.com/3474048/110442950-3f340b80-8070-11eb-857f-a5608c174523.png)
+![Full page view of the working Horiseon landing page.](./assets/images/horiseon_screenshot.png)
 
